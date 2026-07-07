@@ -82,11 +82,9 @@ Power BI Dashboard
 
 ### Executive Dashboard
 
-(Add Page 1 Screenshot Here)
+<img width="1162" height="622" alt="Screenshot 2026-07-06 203019" src="https://github.com/user-attachments/assets/b427dfc1-71d3-49cc-9583-b06f02c9a8ca" />
 
-### Customer Insights Dashboard
 
-(Add Page 2 Screenshot Here)
 
 ---
 
